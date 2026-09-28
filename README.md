@@ -75,6 +75,8 @@ macOS / Linux 可执行 `sh gradlew :enderscape-expansion:build :enderscape-trim
 
 ## 来源与声明
 
-原 JAR 的模组声明、署名和许可证均原样保留。见 `NOTICE.md`。
-特别是 Expansion 附带的 Enderscape 许可明确区分 MIT 代码和保留所有权利的美术资源，
-本源码导出没有将所有资源改为 MIT。
+项目代码及新增构建配置采用 [MIT 许可证](LICENSE)。上游代码的版权声明继续保留。
+
+单独授权的第三方内容不受根目录 MIT 许可证重新授权：Enderscape 的美术资源维持
+All Rights Reserved；奶酪矿石相关内容按原包附带的 LGPL-3.0 声明处理。
+原 JAR 的模组声明、署名和许可证均原样保留，详细范围见 [NOTICE.md](NOTICE.md)。
