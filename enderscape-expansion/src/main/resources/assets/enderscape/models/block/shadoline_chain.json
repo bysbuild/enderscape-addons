@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/chain",
+  "textures": {
+    "texture": "enderscape:block/shadoline_chain",
+    "all": "enderscape:block/shadoline_chain",
+    "particle": "enderscape:block/shadoline_chain"
+  }
+}

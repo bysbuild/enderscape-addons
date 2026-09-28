@@ -1,0 +1,60 @@
+{
+  "carvers": {},
+  "downfall": 0.5,
+  "effects": {
+    "foliage_color": 10598275,
+    "grass_color": 10598275,
+    "water_color": 7961249,
+    "sky_color": 525835,
+    "fog_color": 328712,
+    "water_fog_color": 3684693,
+    "ambient_sound": "enderscape:ambient.void_sky_islands.loop",
+    "additions_sound": {
+      "sound": "enderscape:ambient.void_sky_islands.additions",
+      "tick_chance": 0.0006
+    },
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2.0,
+      "sound": "enderscape:ambient.void_sky_islands.mood",
+      "tick_delay": 6000
+    },
+    "particle": {
+      "probability": 0.006,
+      "options": {
+        "type": "enderscape:void_stars"
+      }
+    }
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [
+      "enderscape:small_sky_islands"
+    ],
+    [],
+    [
+      "enderscape:veradite",
+      "enderscape:mirestone_blobs",
+      "enderscape:shadoline_ore",
+      "enderscape:scattered_shadoline_ore",
+      "enderscape:nebulite_ore",
+      "enderscape:ceiling_nebulite_ore"
+    ]
+  ],
+  "has_precipitation": false,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": 0.5
+}

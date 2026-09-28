@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_end",
+  "features": "enderscape_expansion:end_cheese_ore_placed",
+  "step": "top_layer_modification",
+  "neoforge:conditions": [
+    {
+      "modid": "alexsmobsdelight",
+      "type": "neoforge:mod_loaded"
+    }
+  ]
+}
+

@@ -1,0 +1,18 @@
+version = '1.0.11-selected-compat'
+base.archivesName = 'enderscape-expansion-neoforge-1.21.1'
+
+// Local compile-time dependencies are not redistributed in this source export.
+def dependencyFiles = ['enderscape.jar', 'jei.jar', 'colorfulhearts.jar']
+dependencies {
+    compileOnly files(dependencyFiles.collect { rootProject.file("libs/${it}") })
+}
+
+tasks.register('checkLocalDependencies') {
+    doLast {
+        def missing = dependencyFiles.findAll { !rootProject.file("libs/${it}").isFile() }
+        if (!missing.empty) {
+            throw new GradleException("Missing compile dependencies in libs/: ${missing.join(', ')}. See libs/README.md.")
+        }
+    }
+}
+tasks.named('compileJava') { dependsOn 'checkLocalDependencies' }

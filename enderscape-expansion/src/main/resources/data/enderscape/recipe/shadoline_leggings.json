@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "enderscape:rubble_chitin"
+    },
+    "X": {
+      "item": "enderscape:shadoline_ingot"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "X X",
+    "C C"
+  ],
+  "result": {
+    "id": "enderscape:shadoline_leggings"
+  }
+}

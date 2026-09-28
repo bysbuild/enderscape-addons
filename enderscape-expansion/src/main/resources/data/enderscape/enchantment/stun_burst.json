@@ -1,0 +1,21 @@
+{
+  "anvil_cost": 4,
+  "description": {
+    "translate": "enchantment.enderscape.stun_burst"
+  },
+  "effects": {},
+  "max_cost": {
+    "base": 20,
+    "per_level_above_first": 40
+  },
+  "max_level": 2,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 15
+  },
+  "slots": [
+    "hand"
+  ],
+  "supported_items": "#enderscape:enchantable/dagger",
+  "weight": 2
+}

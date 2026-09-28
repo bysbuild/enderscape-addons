@@ -1,0 +1,61 @@
+{
+  "type": "enderscape_expansion:void_lake",
+  "config": {
+    "barrier": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "enderscape:void_shale",
+        "Properties": {
+          "iteration": "0",
+          "natural": "true",
+          "stress": "0"
+        }
+      }
+    },
+    "barrier_pillar_height": {
+      "distribution": [
+        {
+          "data": 0,
+          "weight": 1
+        },
+        {
+          "data": 1,
+          "weight": 2
+        },
+        {
+          "data": 2,
+          "weight": 3
+        },
+        {
+          "data": 3,
+          "weight": 2
+        },
+        {
+          "data": 4,
+          "weight": 1
+        }
+      ],
+      "type": "minecraft:weighted_list"
+    },
+    "barrier_placement_chance": {
+      "type": "minecraft:uniform",
+      "max_exclusive": 0.5,
+      "min_inclusive": 0.25
+    },
+    "barrier_radius": 4,
+    "fluid": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "enderscape:void_lachryma",
+        "Properties": {
+          "level": "0"
+        }
+      }
+    },
+    "size": {
+      "type": "minecraft:uniform",
+      "max_inclusive": 9,
+      "min_inclusive": 5
+    }
+  }
+}

@@ -1,0 +1,4 @@
+// The JAR uses mod ID trimmed and compatibility version 3.0.0.
+// Its own release version remains 1.0.0.
+version = '1.0.0'
+base.archivesName = 'enderscape-trim-bridge-neoforge-1.21.1'

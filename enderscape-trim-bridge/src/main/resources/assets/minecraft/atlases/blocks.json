@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "permutations": {
+        "enderscape_shadoline": "enderscape:trims/color_palettes/shadoline",
+        "enderscape_nebulite": "enderscape:trims/color_palettes/nebulite"
+      },
+      "palette_key": "minecraft:trims/color_palettes/trim_palette",
+      "type": "minecraft:paletted_permutations",
+      "textures": [
+        "trims/items/leggings_trim",
+        "trims/items/chestplate_trim",
+        "trims/items/helmet_trim",
+        "trims/items/boots_trim"
+      ]
+    }
+  ]
+}

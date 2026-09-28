@@ -1,0 +1,6 @@
+{
+  "parent": "enderscape:item/drift_leggings",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim_emerald"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_chestplate",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim_enderscape_shadoline"
+  }
+}

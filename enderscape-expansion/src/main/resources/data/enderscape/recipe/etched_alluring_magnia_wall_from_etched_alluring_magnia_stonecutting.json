@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "enderscape:etched_alluring_magnia"
+  },
+  "result": {
+    "id": "enderscape:etched_alluring_magnia_wall"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "feature": "enderscape:wisp_flower",
+  "placement": [
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": {
+          "below_top": 0
+        },
+        "min_inclusive": {
+          "above_bottom": 0
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 4
+    },
+    {
+      "type": "minecraft:random_offset",
+      "xz_spread": {
+        "distribution": [
+          {
+            "data": -7,
+            "weight": 1
+          },
+          {
+            "data": -6,
+            "weight": 2
+          },
+          {
+            "data": -5,
+            "weight": 3
+          },
+          {
+            "data": -4,
+            "weight": 4
+          },
+          {
+            "data": -3,
+            "weight": 5
+          },
+          {
+            "data": -2,
+            "weight": 6
+          },
+          {
+            "data": -1,
+            "weight": 7
+          },
+          {
+            "data": 0,
+            "weight": 8
+          },
+          {
+            "data": 1,
+            "weight": 7
+          },
+          {
+            "data": 2,
+            "weight": 6
+          },
+          {
+            "data": 3,
+            "weight": 5
+          },
+          {
+            "data": 4,
+            "weight": 4
+          },
+          {
+            "data": 5,
+            "weight": 3
+          },
+          {
+            "data": 6,
+            "weight": 2
+          },
+          {
+            "data": 7,
+            "weight": 1
+          }
+        ],
+        "type": "minecraft:weighted_list"
+      },
+      "y_spread": {
+        "distribution": [
+          {
+            "data": -3,
+            "weight": 1
+          },
+          {
+            "data": -2,
+            "weight": 2
+          },
+          {
+            "data": -1,
+            "weight": 3
+          },
+          {
+            "data": 0,
+            "weight": 4
+          },
+          {
+            "data": 1,
+            "weight": 3
+          },
+          {
+            "data": 2,
+            "weight": 2
+          },
+          {
+            "data": 3,
+            "weight": 1
+          }
+        ],
+        "type": "minecraft:weighted_list"
+      }
+    },
+    {
+      "type": "minecraft:environment_scan",
+      "allowed_search_condition": {
+        "type": "minecraft:matching_block_tag",
+        "tag": "minecraft:air"
+      },
+      "direction_of_search": "down",
+      "max_steps": 12,
+      "target_condition": {
+        "type": "minecraft:matching_blocks",
+        "blocks": "enderscape:veiled_end_stone"
+      }
+    },
+    {
+      "type": "minecraft:random_offset",
+      "xz_spread": 0,
+      "y_spread": 1
+    }
+  ]
+}

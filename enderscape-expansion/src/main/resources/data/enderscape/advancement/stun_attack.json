@@ -1,0 +1,28 @@
+{
+  "parent": "enderscape:craft_nebulite",
+  "criteria": {
+    "stun_attack": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.enderscape.stun_attack.description"
+    },
+    "icon": {
+      "components": {
+        "enderscape:current_nebulite_fuel": 1
+      },
+      "id": "enderscape:dagger"
+    },
+    "title": {
+      "translate": "advancement.enderscape.stun_attack"
+    }
+  },
+  "requirements": [
+    [
+      "stun_attack"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

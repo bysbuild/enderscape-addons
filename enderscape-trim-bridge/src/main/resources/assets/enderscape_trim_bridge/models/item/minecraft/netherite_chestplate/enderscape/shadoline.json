@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_chestplate",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim_enderscape_shadoline"
+  }
+}

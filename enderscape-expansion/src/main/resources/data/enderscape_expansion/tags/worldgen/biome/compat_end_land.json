@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "enderscape:celestial_grove",
+      "required": false
+    },
+    {
+      "id": "enderscape:corrupt_barrens",
+      "required": false
+    },
+    {
+      "id": "enderscape:magnia_crags",
+      "required": false
+    },
+    {
+      "id": "enderscape:magnia_fields",
+      "required": false
+    },
+    {
+      "id": "enderscape:veiled_woodlands",
+      "required": false
+    }
+  ]
+}

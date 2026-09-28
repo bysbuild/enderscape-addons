@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "alexsmobsdelight:block/end_cheese_ore"
+  }
+}

@@ -1,0 +1,27 @@
+// Reconstructed build configuration; not recovered from the original project.
+plugins {
+    id 'base'
+    id 'net.neoforged.moddev' version '2.0.147' apply false
+}
+
+subprojects {
+    apply plugin: 'java-library'
+    apply plugin: 'net.neoforged.moddev'
+
+    group = 'dev.yuanyu'
+    java {
+        toolchain.languageVersion = JavaLanguageVersion.of(21)
+        withSourcesJar()
+    }
+
+    neoForge {
+        version = '21.1.252'
+    }
+
+    repositories { mavenCentral() }
+
+    tasks.withType(JavaCompile).configureEach {
+        options.encoding = 'UTF-8'
+        options.release = 21
+    }
+}

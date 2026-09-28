@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:end_stone",
+    {
+      "id": "enderscape:mirestone",
+      "required": false
+    },
+    {
+      "id": "enderscape:veradite",
+      "required": false
+    },
+    {
+      "id": "enderscape:kurodite",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/chainmail_leggings",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim_enderscape_nebulite"
+  }
+}

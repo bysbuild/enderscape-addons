@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "enderscape:mirestone_bricks"
+    },
+    {
+      "item": "enderscape:corrupt_growth"
+    }
+  ],
+  "result": {
+    "id": "enderscape:overgrown_mirestone_bricks"
+  }
+}

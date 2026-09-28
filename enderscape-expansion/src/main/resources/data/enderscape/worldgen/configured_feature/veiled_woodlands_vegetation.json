@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "data": {
+            "Name": "enderscape:wisp_sprouts"
+          },
+          "weight": 4
+        },
+        {
+          "data": {
+            "Name": "enderscape:wisp_growth"
+          },
+          "weight": 1
+        }
+      ]
+    }
+  }
+}

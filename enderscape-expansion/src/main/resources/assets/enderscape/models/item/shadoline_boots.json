@@ -1,0 +1,80 @@
+{
+  "textures": {
+    "layer0": "enderscape:item/shadoline_boots"
+  },
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "predicate": {
+        "enderscape_expansion:trim/minecraft/quartz": 1
+      },
+      "model": "enderscape_expansion:item/shadoline_boots/minecraft/quartz"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:trim/minecraft/iron": 1
+      },
+      "model": "enderscape_expansion:item/shadoline_boots/minecraft/iron"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:trim/minecraft/netherite": 1
+      },
+      "model": "enderscape_expansion:item/shadoline_boots/minecraft/netherite"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:trim/minecraft/redstone": 1
+      },
+      "model": "enderscape_expansion:item/shadoline_boots/minecraft/redstone"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:trim/minecraft/copper": 1
+      },
+      "model": "enderscape_expansion:item/shadoline_boots/minecraft/copper"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:trim/minecraft/gold": 1
+      },
+      "model": "enderscape_expansion:item/shadoline_boots/minecraft/gold"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:trim/minecraft/emerald": 1
+      },
+      "model": "enderscape_expansion:item/shadoline_boots/minecraft/emerald"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:trim/minecraft/diamond": 1
+      },
+      "model": "enderscape_expansion:item/shadoline_boots/minecraft/diamond"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:trim/minecraft/lapis": 1
+      },
+      "model": "enderscape_expansion:item/shadoline_boots/minecraft/lapis"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:trim/minecraft/amethyst": 1
+      },
+      "model": "enderscape_expansion:item/shadoline_boots/minecraft/amethyst"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:trim/enderscape/nebulite": 1
+      },
+      "model": "enderscape_expansion:item/shadoline_boots/enderscape/nebulite"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:trim/enderscape/shadoline": 1
+      },
+      "model": "enderscape_expansion:item/shadoline_boots/enderscape/shadoline"
+    }
+  ]
+}

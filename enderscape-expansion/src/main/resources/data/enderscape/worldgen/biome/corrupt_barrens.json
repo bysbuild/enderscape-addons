@@ -1,0 +1,106 @@
+{
+  "carvers": {},
+  "downfall": 0.5,
+  "effects": {
+    "foliage_color": 8682641,
+    "grass_color": 8682641,
+    "water_color": 6972541,
+    "sky_color": 986133,
+    "fog_color": 459787,
+    "water_fog_color": 5525347,
+    "ambient_sound": "enderscape:ambient.corrupt_barrens.loop",
+    "additions_sound": {
+      "sound": "enderscape:ambient.corrupt_barrens.additions",
+      "tick_chance": 0.0015
+    },
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2.0,
+      "sound": "enderscape:ambient.corrupt_barrens.mood",
+      "tick_delay": 6000
+    },
+    "music": {
+      "max_delay": 24000,
+      "min_delay": 12000,
+      "sound": "enderscape:music.enderscape.biome.corrupt_barrens",
+      "replace_current_music": false
+    },
+    "particle": {
+      "probability": 0.0045,
+      "options": {
+        "type": "enderscape:void_stars"
+      }
+    }
+  },
+  "features": [
+    [],
+    [
+      "enderscape:very_common_void_lakes"
+    ],
+    [],
+    [],
+    [
+      "minecraft:end_gateway_return",
+      "enderscape:mirestone_pillars"
+    ],
+    [],
+    [
+      "enderscape:void_shale",
+      "enderscape:void_shale_blobs",
+      "enderscape:kurodite",
+      "enderscape:shadoline_ore",
+      "enderscape:scattered_shadoline_ore",
+      "enderscape:nebulite_ore",
+      "enderscape:commmon_ceiling_nebulite_ore"
+    ],
+    [],
+    [],
+    [
+      "enderscape:large_murublight_chanterelles",
+      "enderscape:blinklight_vines",
+      "enderscape:downward_corrupt_growth",
+      "enderscape:downward_tall_corrupt_growth",
+      "enderscape:upward_corrupt_growth",
+      "enderscape:upward_tall_corrupt_growth",
+      "enderscape:corrupt_barrens_vegetation",
+      "enderscape:murublight_bracket",
+      "enderscape:common_void_fire_on_void_shale",
+      "enderscape:void_fire_on_kurodite"
+    ]
+  ],
+  "has_precipitation": false,
+  "spawn_costs": {
+    "enderscape:rubblemite": {
+      "charge": 1.0,
+      "energy_budget": 1.0
+    },
+    "minecraft:endermite": {
+      "charge": 1.0,
+      "energy_budget": 2.0
+    }
+  },
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [
+      {
+        "type": "minecraft:endermite",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 4
+      },
+      {
+        "type": "enderscape:rubblemite",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 2
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": 0.5
+}

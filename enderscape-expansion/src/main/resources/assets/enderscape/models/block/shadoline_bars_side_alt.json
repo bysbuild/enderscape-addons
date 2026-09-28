@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/iron_bars_side_alt",
+  "textures": {
+    "bars": "enderscape:block/shadoline_bars",
+    "edge": "enderscape:block/shadoline_bars",
+    "particle": "enderscape:block/shadoline_bars"
+  }
+}

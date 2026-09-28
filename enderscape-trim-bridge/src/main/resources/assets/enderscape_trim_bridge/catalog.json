@@ -1,0 +1,312 @@
+[
+  {
+    "base": "minecraft:item/leather_helmet",
+    "model": "enderscape_trim_bridge:item/minecraft/leather_helmet/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/leather_helmet",
+    "model": "enderscape_trim_bridge:item/minecraft/leather_helmet/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/leather_chestplate",
+    "model": "enderscape_trim_bridge:item/minecraft/leather_chestplate/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/leather_chestplate",
+    "model": "enderscape_trim_bridge:item/minecraft/leather_chestplate/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/leather_leggings",
+    "model": "enderscape_trim_bridge:item/minecraft/leather_leggings/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/leather_leggings",
+    "model": "enderscape_trim_bridge:item/minecraft/leather_leggings/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/leather_boots",
+    "model": "enderscape_trim_bridge:item/minecraft/leather_boots/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/leather_boots",
+    "model": "enderscape_trim_bridge:item/minecraft/leather_boots/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/chainmail_helmet",
+    "model": "enderscape_trim_bridge:item/minecraft/chainmail_helmet/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/chainmail_helmet",
+    "model": "enderscape_trim_bridge:item/minecraft/chainmail_helmet/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/chainmail_chestplate",
+    "model": "enderscape_trim_bridge:item/minecraft/chainmail_chestplate/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/chainmail_chestplate",
+    "model": "enderscape_trim_bridge:item/minecraft/chainmail_chestplate/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/chainmail_leggings",
+    "model": "enderscape_trim_bridge:item/minecraft/chainmail_leggings/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/chainmail_leggings",
+    "model": "enderscape_trim_bridge:item/minecraft/chainmail_leggings/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/chainmail_boots",
+    "model": "enderscape_trim_bridge:item/minecraft/chainmail_boots/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/chainmail_boots",
+    "model": "enderscape_trim_bridge:item/minecraft/chainmail_boots/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/iron_helmet",
+    "model": "enderscape_trim_bridge:item/minecraft/iron_helmet/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/iron_helmet",
+    "model": "enderscape_trim_bridge:item/minecraft/iron_helmet/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/iron_chestplate",
+    "model": "enderscape_trim_bridge:item/minecraft/iron_chestplate/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/iron_chestplate",
+    "model": "enderscape_trim_bridge:item/minecraft/iron_chestplate/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/iron_leggings",
+    "model": "enderscape_trim_bridge:item/minecraft/iron_leggings/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/iron_leggings",
+    "model": "enderscape_trim_bridge:item/minecraft/iron_leggings/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/iron_boots",
+    "model": "enderscape_trim_bridge:item/minecraft/iron_boots/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/iron_boots",
+    "model": "enderscape_trim_bridge:item/minecraft/iron_boots/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/golden_helmet",
+    "model": "enderscape_trim_bridge:item/minecraft/golden_helmet/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/golden_helmet",
+    "model": "enderscape_trim_bridge:item/minecraft/golden_helmet/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/golden_chestplate",
+    "model": "enderscape_trim_bridge:item/minecraft/golden_chestplate/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/golden_chestplate",
+    "model": "enderscape_trim_bridge:item/minecraft/golden_chestplate/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/golden_leggings",
+    "model": "enderscape_trim_bridge:item/minecraft/golden_leggings/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/golden_leggings",
+    "model": "enderscape_trim_bridge:item/minecraft/golden_leggings/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/golden_boots",
+    "model": "enderscape_trim_bridge:item/minecraft/golden_boots/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/golden_boots",
+    "model": "enderscape_trim_bridge:item/minecraft/golden_boots/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/diamond_helmet",
+    "model": "enderscape_trim_bridge:item/minecraft/diamond_helmet/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/diamond_helmet",
+    "model": "enderscape_trim_bridge:item/minecraft/diamond_helmet/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/diamond_chestplate",
+    "model": "enderscape_trim_bridge:item/minecraft/diamond_chestplate/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/diamond_chestplate",
+    "model": "enderscape_trim_bridge:item/minecraft/diamond_chestplate/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/diamond_leggings",
+    "model": "enderscape_trim_bridge:item/minecraft/diamond_leggings/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/diamond_leggings",
+    "model": "enderscape_trim_bridge:item/minecraft/diamond_leggings/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/diamond_boots",
+    "model": "enderscape_trim_bridge:item/minecraft/diamond_boots/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/diamond_boots",
+    "model": "enderscape_trim_bridge:item/minecraft/diamond_boots/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/netherite_helmet",
+    "model": "enderscape_trim_bridge:item/minecraft/netherite_helmet/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/netherite_helmet",
+    "model": "enderscape_trim_bridge:item/minecraft/netherite_helmet/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/netherite_chestplate",
+    "model": "enderscape_trim_bridge:item/minecraft/netherite_chestplate/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/netherite_chestplate",
+    "model": "enderscape_trim_bridge:item/minecraft/netherite_chestplate/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/netherite_leggings",
+    "model": "enderscape_trim_bridge:item/minecraft/netherite_leggings/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/netherite_leggings",
+    "model": "enderscape_trim_bridge:item/minecraft/netherite_leggings/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/netherite_boots",
+    "model": "enderscape_trim_bridge:item/minecraft/netherite_boots/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/netherite_boots",
+    "model": "enderscape_trim_bridge:item/minecraft/netherite_boots/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "minecraft:item/turtle_helmet",
+    "model": "enderscape_trim_bridge:item/minecraft/turtle_helmet/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "minecraft:item/turtle_helmet",
+    "model": "enderscape_trim_bridge:item/minecraft/turtle_helmet/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "enderscape:item/drift_leggings",
+    "model": "enderscape_trim_bridge:item/enderscape/drift_leggings/enderscape/nebulite",
+    "material": "enderscape:nebulite"
+  },
+  {
+    "base": "enderscape:item/drift_leggings",
+    "model": "enderscape_trim_bridge:item/enderscape/drift_leggings/enderscape/shadoline",
+    "material": "enderscape:shadoline"
+  },
+  {
+    "base": "enderscape:item/drift_leggings",
+    "model": "enderscape_trim_bridge:item/enderscape/drift_leggings/minecraft/quartz",
+    "material": "minecraft:quartz"
+  },
+  {
+    "base": "enderscape:item/drift_leggings",
+    "model": "enderscape_trim_bridge:item/enderscape/drift_leggings/minecraft/iron",
+    "material": "minecraft:iron"
+  },
+  {
+    "base": "enderscape:item/drift_leggings",
+    "model": "enderscape_trim_bridge:item/enderscape/drift_leggings/minecraft/netherite",
+    "material": "minecraft:netherite"
+  },
+  {
+    "base": "enderscape:item/drift_leggings",
+    "model": "enderscape_trim_bridge:item/enderscape/drift_leggings/minecraft/redstone",
+    "material": "minecraft:redstone"
+  },
+  {
+    "base": "enderscape:item/drift_leggings",
+    "model": "enderscape_trim_bridge:item/enderscape/drift_leggings/minecraft/copper",
+    "material": "minecraft:copper"
+  },
+  {
+    "base": "enderscape:item/drift_leggings",
+    "model": "enderscape_trim_bridge:item/enderscape/drift_leggings/minecraft/gold",
+    "material": "minecraft:gold"
+  },
+  {
+    "base": "enderscape:item/drift_leggings",
+    "model": "enderscape_trim_bridge:item/enderscape/drift_leggings/minecraft/emerald",
+    "material": "minecraft:emerald"
+  },
+  {
+    "base": "enderscape:item/drift_leggings",
+    "model": "enderscape_trim_bridge:item/enderscape/drift_leggings/minecraft/diamond",
+    "material": "minecraft:diamond"
+  },
+  {
+    "base": "enderscape:item/drift_leggings",
+    "model": "enderscape_trim_bridge:item/enderscape/drift_leggings/minecraft/lapis",
+    "material": "minecraft:lapis"
+  },
+  {
+    "base": "enderscape:item/drift_leggings",
+    "model": "enderscape_trim_bridge:item/enderscape/drift_leggings/minecraft/amethyst",
+    "material": "minecraft:amethyst"
+  }
+]

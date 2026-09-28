@@ -1,0 +1,6 @@
+{
+  "neoforge:conditions": [{"type":"neoforge:mod_loaded","modid":"alexsmobsup"}],
+  "type": "neoforge:add_spawns",
+  "structures": "enderscape:end_city",
+  "spawners": [{"type":"alexsmobsup:mimicube","weight":40,"minCount":1,"maxCount":3}]
+}

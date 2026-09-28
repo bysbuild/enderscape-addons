@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": ["IAI", "RJR", "IPI"],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "A": {"item": "enderscape:alluring_magnia"},
+    "R": {"item": "minecraft:redstone"},
+    "J": {"item": "minecraft:jukebox"},
+    "P": {"item": "enderscape:repulsive_magnia"}
+  },
+  "result": {"id": "enderscape:magnia_radio", "count": 1}
+}

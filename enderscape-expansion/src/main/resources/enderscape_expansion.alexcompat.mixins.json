@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.yuanyu.enderscapeexpansion.alexcompat.mixin",
+  "plugin": "dev.yuanyu.enderscapeexpansion.alexcompat.AlexMixinPlugin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["SpectreLeashMixin"],
+  "injectors": {"defaultRequire": 1}
+}

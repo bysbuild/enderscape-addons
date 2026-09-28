@@ -1,0 +1,104 @@
+{
+  "parent": "enderscape:item/template_mirror",
+  "textures": {
+    "layer0": "enderscape:item/mirror"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 1
+      },
+      "model": "enderscape:item/mirror_white"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 2
+      },
+      "model": "enderscape:item/mirror_orange"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 3
+      },
+      "model": "enderscape:item/mirror_magenta"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 4
+      },
+      "model": "enderscape:item/mirror_light_blue"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 5
+      },
+      "model": "enderscape:item/mirror_yellow"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 6
+      },
+      "model": "enderscape:item/mirror_lime"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 7
+      },
+      "model": "enderscape:item/mirror_pink"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 8
+      },
+      "model": "enderscape:item/mirror_gray"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 9
+      },
+      "model": "enderscape:item/mirror_light_gray"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 10
+      },
+      "model": "enderscape:item/mirror_cyan"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 11
+      },
+      "model": "enderscape:item/mirror_purple"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 12
+      },
+      "model": "enderscape:item/mirror_blue"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 13
+      },
+      "model": "enderscape:item/mirror_brown"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 14
+      },
+      "model": "enderscape:item/mirror_green"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 15
+      },
+      "model": "enderscape:item/mirror_red"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:mirror_color": 16
+      },
+      "model": "enderscape:item/mirror_black"
+    }
+  ]
+}

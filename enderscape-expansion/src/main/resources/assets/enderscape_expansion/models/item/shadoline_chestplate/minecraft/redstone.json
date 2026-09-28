@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim_redstone"
+  },
+  "parent": "enderscape:item/shadoline_chestplate"
+}

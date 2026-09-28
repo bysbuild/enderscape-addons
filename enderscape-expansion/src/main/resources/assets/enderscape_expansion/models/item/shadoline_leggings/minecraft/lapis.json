@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim_lapis"
+  },
+  "parent": "enderscape:item/shadoline_leggings"
+}

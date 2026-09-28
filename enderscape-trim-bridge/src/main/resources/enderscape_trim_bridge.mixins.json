@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.yuanyu.enderscapetrimbridge.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["ModelBakeryMixin"],
+  "injectors": {"defaultRequire": 1}
+}

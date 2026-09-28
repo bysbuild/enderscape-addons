@@ -1,0 +1,5 @@
+End cheese ore assets and world-generation/loot data adapted from Alex's Mobs Delight 1.1.0 by BF_Meow and rawchickenNEG.
+Upstream release: https://www.curseforge.com/minecraft/mc-mods/alexs-mobs-delight/files/8847896
+Upstream project license: LGPL-3.0 (as listed on the release page).
+Changes: NeoForge 1.21.1 registration and data format adaptation, optional loading with the 1.0.7 port, End biome tag coverage, shared End rock targets, full dimension height placement, final generation stage to avoid feature ordering cycles.
+Original ore texture and models are unchanged. This is a focused compatibility backport, not the full Alex's Mobs Delight 1.1.0 update.

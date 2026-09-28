@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "enderscape:etched_repulsive_magnia"
+  },
+  "result": {
+    "id": "enderscape:etched_repulsive_magnia_slab"
+  }
+}

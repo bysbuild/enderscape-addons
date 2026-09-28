@@ -1,0 +1,57 @@
+{
+  "parent": "enderscape:item/rubble_shield_end_stone",
+  "overrides": [
+    {
+      "predicate": {
+        "enderscape_expansion:shield_variant": 0
+      },
+      "model": "enderscape:item/rubble_shield_end_stone"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:shield_variant": 0,
+        "minecraft:blocking": 1
+      },
+      "model": "enderscape:item/rubble_shield_end_stone_using"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:shield_variant": 1
+      },
+      "model": "enderscape:item/rubble_shield_mirestone"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:shield_variant": 1,
+        "minecraft:blocking": 1
+      },
+      "model": "enderscape:item/rubble_shield_mirestone_using"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:shield_variant": 2
+      },
+      "model": "enderscape:item/rubble_shield_veradite"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:shield_variant": 2,
+        "minecraft:blocking": 1
+      },
+      "model": "enderscape:item/rubble_shield_veradite_using"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:shield_variant": 3
+      },
+      "model": "enderscape:item/rubble_shield_kurodite"
+    },
+    {
+      "predicate": {
+        "enderscape_expansion:shield_variant": 3,
+        "minecraft:blocking": 1
+      },
+      "model": "enderscape:item/rubble_shield_kurodite_using"
+    }
+  ]
+}

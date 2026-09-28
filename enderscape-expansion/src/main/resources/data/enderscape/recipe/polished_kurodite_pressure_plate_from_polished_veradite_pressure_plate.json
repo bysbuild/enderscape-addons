@@ -1,0 +1,10 @@
+{
+  "type": "enderscape:void_lachryma",
+  "average_chance_per_second": 0.25,
+  "input": {
+    "item": "enderscape:polished_veradite_pressure_plate"
+  },
+  "result": {
+    "id": "enderscape:polished_kurodite_pressure_plate"
+  }
+}

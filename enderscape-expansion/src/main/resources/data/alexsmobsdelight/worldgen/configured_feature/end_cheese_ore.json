@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "discard_chance_on_air_exposure": 0.0,
+    "size": 3,
+    "targets": [
+      {
+        "state": {
+          "Name": "alexsmobsdelight:end_cheese_ore"
+        },
+        "target": {
+          "tag": "enderscape_expansion:cheese_ore_replaceables",
+          "predicate_type": "minecraft:tag_match"
+        }
+      }
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "modid": "alexsmobsdelight",
+      "type": "neoforge:mod_loaded"
+    }
+  ]
+}

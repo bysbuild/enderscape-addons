@@ -1,0 +1,96 @@
+{
+  "carvers": {},
+  "downfall": 0.5,
+  "effects": {
+    "foliage_color": 11983714,
+    "grass_color": 11983713,
+    "water_color": 5162923,
+    "sky_color": 1577761,
+    "fog_color": 1182996,
+    "water_fog_color": 4027235,
+    "ambient_sound": "enderscape:ambient.celestial_grove.loop",
+    "additions_sound": {
+      "sound": "enderscape:ambient.celestial_grove.additions",
+      "tick_chance": 0.0015
+    },
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2.0,
+      "sound": "enderscape:ambient.celestial_grove.mood",
+      "tick_delay": 6000
+    },
+    "music": {
+      "max_delay": 24000,
+      "min_delay": 12000,
+      "sound": "enderscape:music.enderscape.biome.celestial_grove",
+      "replace_current_music": false
+    },
+    "particle": {
+      "probability": 0.012,
+      "options": {
+        "type": "enderscape:celestial_spores"
+      }
+    }
+  },
+  "features": [
+    [],
+    [
+      "enderscape:uncommon_void_lakes"
+    ],
+    [],
+    [],
+    [
+      "minecraft:end_gateway_return"
+    ],
+    [],
+    [
+      "enderscape:void_shale",
+      "enderscape:void_shale_blobs",
+      "enderscape:veradite",
+      "enderscape:mirestone_blobs",
+      "enderscape:shadoline_ore",
+      "enderscape:scattered_shadoline_ore",
+      "enderscape:nebulite_ore",
+      "enderscape:ceiling_nebulite_ore"
+    ],
+    [],
+    [],
+    [
+      "enderscape:chorus_plants",
+      "enderscape:common_chorus_sprouts",
+      "enderscape:large_celestial_chanterelles",
+      "enderscape:celestial_growth",
+      "enderscape:celestial_grove_vegetation",
+      "enderscape:bulb_flower_patches",
+      "enderscape:common_dry_end_growth",
+      "enderscape:uncommon_murublight_bracket"
+    ]
+  ],
+  "has_precipitation": false,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [
+      {
+        "type": "enderscape:drifter",
+        "maxCount": 3,
+        "minCount": 2,
+        "weight": 6
+      }
+    ],
+    "misc": [],
+    "monster": [
+      {
+        "type": "minecraft:enderman",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": 0.5
+}

@@ -1,0 +1,21 @@
+{
+  "anvil_cost": 2,
+  "description": {
+    "translate": "enchantment.enderscape.resonance"
+  },
+  "effects": {},
+  "max_cost": {
+    "base": 20,
+    "per_level_above_first": 40
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 15
+  },
+  "slots": [
+    "any"
+  ],
+  "supported_items": "#enderscape:enchantable/nebulite_tool",
+  "weight": 10
+}

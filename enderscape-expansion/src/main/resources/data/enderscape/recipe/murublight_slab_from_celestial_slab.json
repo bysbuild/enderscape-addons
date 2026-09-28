@@ -1,0 +1,10 @@
+{
+  "type": "enderscape:void_lachryma",
+  "average_chance_per_second": 0.25,
+  "input": {
+    "item": "enderscape:celestial_slab"
+  },
+  "result": {
+    "id": "enderscape:murublight_slab"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "enderscape:shadoline_nugget"
+    },
+    "@": {
+      "item": "enderscape:void_torch"
+    }
+  },
+  "pattern": [
+    "###",
+    "#@#",
+    "###"
+  ],
+  "result": {
+    "id": "enderscape:void_lantern"
+  }
+}

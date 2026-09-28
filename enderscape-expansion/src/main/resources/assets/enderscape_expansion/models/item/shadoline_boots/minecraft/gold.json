@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer1": "minecraft:trims/items/boots_trim_gold"
+  },
+  "parent": "enderscape:item/shadoline_boots"
+}

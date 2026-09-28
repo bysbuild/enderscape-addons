@@ -1,0 +1,25 @@
+{
+  "parent": "enderscape:craft_nebulite",
+  "criteria": {
+    "activate_end_haven": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.enderscape.activate_end_haven.description"
+    },
+    "icon": {
+      "id": "enderscape:dusk_purpur_block"
+    },
+    "title": {
+      "translate": "advancement.enderscape.activate_end_haven"
+    }
+  },
+  "requirements": [
+    [
+      "activate_end_haven"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

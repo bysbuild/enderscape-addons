@@ -1,0 +1,49 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.yuanyu.enderscapeexpansion.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "LivingEntityMixin",
+    "EndermanAnimationMixin",
+    "RubblemiteDashMixin",
+    "RubblemiteStateMixin",
+    "SilverfishDelayMixin",
+    "SilverfishSpawnMixin",
+    "EndermiteSpawnMixin",
+    "BulbFlowerMixin",
+    "BulbLanternMixin",
+    "MobMixin",
+    "StructureMixin",
+    "SinglePoolElementAccessor",
+    "TemplatePieceAccessor",
+    "BaseFireMixin",
+    "BlockEntityTypeMixin",
+    "HavenRespawnMixin",
+    "RustleProcessingMixin",
+    "LegacyDashMixin",
+    "MagniaPowerMixin",
+    "MagniaSproutPowerMixin",
+    "CauldronFillMixin",
+    "MirrorCompatibilityMixin",
+    "ResonanceAttractorMixin",
+    "OuterVoidMixin",
+    "OuterVoidHeightMixin",
+    "StunnedEndermanMixin",
+    "StunnedPufferfishMixin",
+    "StunnedSquidMixin",
+    "StunnedArmadilloMixin",
+    "StunnedInventoryMixin",
+    "BundlingPickupMixin"
+  ],
+  "client": [
+    "EndAmbientLightMixin",
+    "EndDistanceFogMixin",
+    "VoidedHeartsMixin",
+    "StructureMusicMixin",
+    "VoidCameraMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

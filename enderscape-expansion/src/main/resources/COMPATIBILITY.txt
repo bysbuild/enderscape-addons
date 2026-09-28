@@ -1,0 +1,15 @@
+Enderscape Expansion Backport 1.0.0
+Minecraft 1.21.1 / NeoForge 21.1.249 / Enderscape NeoForge 1.0.9 / Lithostitched >=1.8.0
+
+Keep the original Enderscape jar and its existing dependency bridge.
+New terrain and structures apply to newly generated chunks.
+Every newly generated End City has exactly one ship.
+
+Version adaptations: vanilla 26.x spears in loot use matching swords on 1.21.1;
+new wildflowers are supplied as an addon block; new murublight storage shelf uses
+enderscape:murublight_storage_shelf to preserve the old fungus ID.
+Storage display, fluid/particle behavior, data registries and UI use 1.21.1 APIs.
+Old magnia_crags biome IDs remain compatible with existing world data.
+This addon does not make Fabric 26.1.2 mods or arbitrary 26.1.2 datapacks loadable.
+
+Upstream Enderscape code/assets attribution and license: LICENSE_enderscape.

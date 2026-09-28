@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_helmet",
+  "textures": {
+    "layer1": "minecraft:trims/items/helmet_trim_enderscape_nebulite"
+  }
+}

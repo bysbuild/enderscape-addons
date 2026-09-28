@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {
+                    "predicates": {
+                      "minecraft:enchantments": [
+                        {
+                          "levels": {
+                            "min": 1
+                          },
+                          "enchantments": "minecraft:silk_touch"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "name": "alexsmobsdelight:end_cheese_ore"
+            },
+            {
+              "type": "minecraft:item",
+              "functions": [
+                {
+                  "enchantment": "minecraft:fortune",
+                  "formula": "minecraft:ore_drops",
+                  "function": "minecraft:apply_bonus"
+                },
+                {
+                  "function": "minecraft:explosion_decay"
+                }
+              ],
+              "name": "alexsmobsdelight:cheese"
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:blocks/diamond_ore",
+  "neoforge:conditions": [
+    {
+      "modid": "alexsmobsdelight",
+      "type": "neoforge:mod_loaded"
+    }
+  ]
+}

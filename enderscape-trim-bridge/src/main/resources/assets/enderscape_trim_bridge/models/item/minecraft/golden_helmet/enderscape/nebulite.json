@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_helmet",
+  "textures": {
+    "layer1": "minecraft:trims/items/helmet_trim_enderscape_nebulite"
+  }
+}
